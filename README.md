@@ -8,4 +8,4 @@ This project showcases a **Power BI dashboard** built using a **star schema data
 - **Responsive Dashboards** – Built with **bookmarks, time intelligence functions, and DAX measures** to enable dynamic titles, responsive visuals, and seamless navigation.  
 
 ## Getting Started  
-Clone the repository and open the `.pbix` file in **Power BI Desktop** to explore the model and dashboards.  
+[Download the Power BI file](https://github.com/VelocityREST/InternetSalesBI/raw/main/InternetSales.pbix) and open it in **Power BI Desktop** to explore the model and dashboards.  
